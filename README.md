@@ -44,7 +44,7 @@ This is a simple **QR Code Generator** built with **Python**, using **Tkinter** 
 ---
 
 ## 📷 Screenshot (optional)
-![App Screenshot](images/image.png)
+![App Screenshot](image.png)
 
 ## 📄 License
 
