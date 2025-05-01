@@ -1,0 +1,2 @@
+Pillow # pillow is an imaging library use to editing saving file in various format
+qrcode # qrcode is python libray use to generate the qrcode from given text and data.
